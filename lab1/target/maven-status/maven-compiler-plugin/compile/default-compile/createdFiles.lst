@@ -1,0 +1,4 @@
+etu\supmti\hadoop\Main.class
+etu\supmti\hadoop\WriteHDFS.class
+etu\supmti\hadoop\HadoopFileStatus.class
+etu\supmti\hadoop\ReadHDFS.class
